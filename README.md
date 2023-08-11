@@ -1,4 +1,4 @@
-# NY Yellow Taxi Data Analysis Pipeline 
+# NY Yellow Taxi Data Analytics Pipeline 
 
 An end-to-end data engineering project using **S3**, **EC2**, **mage.ai** and **Google BigQuery**. The goal was to tranform data describing trips made by yellow taxis in New York into a suitable format for visualising in a **Looker Studio** dashboard. Data cleaning and transformation was conducted using Python and [GeoPandas](https://geopandas.org/en/stable/index.html).
 
